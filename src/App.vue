@@ -89,7 +89,7 @@
     .image img {
         width: 100%;
         opacity: 1;
-        animation: fadeIn 5s;
+        animation: fadeIn 3s;
     }
 
     .text {
@@ -101,7 +101,7 @@
         background: black;
         font-family: "Helvetica";
         color: white;
-        animation: slideInRight 5s;
+        animation: slideInRight 3s;
     }
 
     @media (min-width: 768px) {
@@ -148,7 +148,7 @@
     }
 
     .footer {
-        margin-top: 70px;
+        margin-top: 150px;
     }
 
     .icons a {
